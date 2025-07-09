@@ -3,10 +3,7 @@
 Transform your health data into actionable insights with a beautiful, accessible dashboard.  
 Redesigning the experience of receiving, interpreting, and taking action on lab test results through an intuitive mobile-first interface that makes health monitoring effortless.
 
-[![npm version](https://img.shields.io/npm/v/lab-results?style=flat-square)](https://www.npmjs.com/package/lab-results)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/abgneudev/Lab_Results/ci.yml?branch=main&style=flat-square)](https://github.com/abgneudev/Lab_Results/actions)
 [![License](https://img.shields.io/github/license/abgneudev/Lab_Results?style=flat-square)](LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/abgneudev/Lab_Results?style=flat-square)](https://github.com/abgneudev/Lab_Results/releases)
 
 ## Demo & Screenshots
 
