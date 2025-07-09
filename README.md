@@ -10,10 +10,7 @@ Redesigning the experience of receiving, interpreting, and taking action on lab 
 
 ## Demo & Screenshots
 
-![LabResults Dashboard Preview](https://via.placeholder.com/800x600/03659C/FFFFFF?text=LabResults+Health+Dashboard)
-*Main dashboard showing health metrics with intuitive status indicators and trend visualization*
-
-🚀 **[Live Demo](https://lab-results.vercel.app)** | 📱 **[Mobile Preview](https://lab-results.vercel.app/mobile)**
+🚀 **[Live Demo](https://lab-results-dusky.vercel.app/results)**
 
 ## Table of Contents
 
