@@ -223,21 +223,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **SPDX-License-Identifier: MIT**
 
 ## Authors & Acknowledgments
-
-- **[@abgneudev](https://github.com/abgneudev)** - Project Lead & UX Design
-- **[@contributor](https://github.com/contributor)** - Frontend Development
-- **[@designer](https://github.com/designer)** - Visual Design System
-
-### Special Thanks
-- [Radix UI](https://radix-ui.com/) for accessible component primitives
-- [Tailwind CSS](https://tailwindcss.com/) for the utility-first styling approach
-- [Framer Motion](https://framer.com/motion/) for smooth animations
-- [Next.js team](https://nextjs.org/) for the amazing React framework
+- **[@abgneudev](https://github.com/abgneudev)** - Project Lead
 
 ## Contact & Community
 
-- � **[Discord Community](https://discord.gg/health-tech)** - Join our health-tech discussions
-- 📧 **[Mailing List](mailto:hello@labresults.dev)** - Get product updates and health tips
 - �🐛 **[Found a bug?](https://github.com/abgneudev/Lab_Results/issues)** - Report issues on GitHub
 - 💡 **[Feature Requests](https://github.com/abgneudev/Lab_Results/discussions)** - Suggest improvements
 
