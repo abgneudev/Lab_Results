@@ -1,7 +1,19 @@
 {
-  "name": "my-v0-project",
+  "name": "lab-results",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "Transform your health data into actionable insights with a beautiful, accessible dashboard",
+  "keywords": ["health", "lab-results", "medical", "dashboard", "nextjs", "react"],
+  "homepage": "https://lab-results.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abgneudev/Lab_Results.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abgneudev/Lab_Results/issues"
+  },
+  "author": "abgneudev",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
